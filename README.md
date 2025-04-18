@@ -7,5 +7,7 @@
 
 ## 使用する言語/フレームワーク等
 言語は主にPythonを使用する
+
 フレームワークに関してはPytorchがメインで次点でpytorch-forecastingやGluonTSなどを書く予定
+
 tensorflowは苦手でアル
