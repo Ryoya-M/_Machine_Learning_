@@ -72,8 +72,8 @@ class MyLSTM(nn.Module):
         # 全結合層に通す
         output = self.fc(lstm_out)
         return output
-        
-        
+
+# テスト
 if __name__ == '__main__':
     import numpy as np
     import matplotlib.pyplot as plt
